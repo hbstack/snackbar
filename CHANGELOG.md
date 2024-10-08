@@ -1,5 +1,26 @@
 # Changelog
 
+## [0.1.2](https://github.com/hbstack/snackbar/compare/v0.1.1...v0.1.2) (2024-10-08)
+
+
+### Bug Fixes
+
+* **deps:** update dependency stylelint-scss to v5.0.1 ([efb30bc](https://github.com/hbstack/snackbar/commit/efb30bc6e2e6de91a9a4654faecf81d44c77360b))
+* **deps:** update dependency stylelint-scss to v5.1.0 ([dd31df1](https://github.com/hbstack/snackbar/commit/dd31df11678537658ede510a07b4a37b982af62e))
+* **deps:** update dependency stylelint-scss to v5.2.0 ([4d69be8](https://github.com/hbstack/snackbar/commit/4d69be8638c13ff6316f92037ef50109fd2f77ee))
+* **deps:** update dependency stylelint-scss to v5.2.1 ([36613cb](https://github.com/hbstack/snackbar/commit/36613cb2933864fd0d836a9947c6f5b2ee793c03))
+* **deps:** update dependency stylelint-scss to v5.3.0 ([7cb7025](https://github.com/hbstack/snackbar/commit/7cb70257a07fe68f0bd1f7120d9a668c7bc01cf1))
+* **deps:** update dependency stylelint-scss to v5.3.1 ([f8088aa](https://github.com/hbstack/snackbar/commit/f8088aa27cce283d74faa21149c8f725f95793e9))
+* **deps:** update dependency stylelint-scss to v6 ([747fad1](https://github.com/hbstack/snackbar/commit/747fad10e33baca141f4dc293cf78c350ad04fc0))
+* **deps:** update dependency stylelint-scss to v6.1.0 ([e073174](https://github.com/hbstack/snackbar/commit/e0731745f4e4613d016917ab4e8a61e2353f2cf5))
+* **deps:** update dependency stylelint-scss to v6.2.0 ([5ef8114](https://github.com/hbstack/snackbar/commit/5ef8114e5200dac3427bcaad77aa31933412e709))
+* **deps:** update dependency stylelint-scss to v6.2.1 ([860d422](https://github.com/hbstack/snackbar/commit/860d422fedafb2963af2c8e22be08e0ee0c6b2a1))
+* **deps:** update dependency stylelint-scss to v6.4.1 ([90e00f7](https://github.com/hbstack/snackbar/commit/90e00f756cdd4061c10de8c9216919a281718ba2))
+* **deps:** update dependency stylelint-scss to v6.5.0 ([b28b9ba](https://github.com/hbstack/snackbar/commit/b28b9ba3d3c611c8f59ecfe73910db4ade4dd495))
+* **deps:** update dependency stylelint-scss to v6.5.1 ([4cd5b5d](https://github.com/hbstack/snackbar/commit/4cd5b5d1e2ddc681687dbb02a0cb58b38c329644))
+* **deps:** update dependency stylelint-scss to v6.6.0 ([aa0a57a](https://github.com/hbstack/snackbar/commit/aa0a57aceabfdb4c8cafde19fa081a057bd3cf41))
+* **deps:** update dependency stylelint-scss to v6.7.0 ([ef7ee97](https://github.com/hbstack/snackbar/commit/ef7ee9765efeca09c1ac265db73a464dd905b76c))
+
 ## [0.1.1](https://github.com/hbstack/snackbar/compare/v0.1.0...v0.1.1) (2023-05-21)
 
 
